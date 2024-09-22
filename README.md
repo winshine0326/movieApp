@@ -1,3 +1,3 @@
 # Movie App 2024
 
-React Js Fundamentals Course 2024
+리액트 공부용 영화 평점 서비스
