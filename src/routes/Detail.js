@@ -1,6 +1,7 @@
 import React, { useEffect } from 'react';
 import { useLocation } from "react-router-dom";
 import { useNavigate } from "react-router-dom";
+import './Detail.css';
 
 function Detail() {
     const location = useLocation();
